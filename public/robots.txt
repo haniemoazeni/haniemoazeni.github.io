@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Update this to your deployed sitemap URL when available
+Sitemap: https://haniemoazeni.github.io/sitemap.xml
+
+

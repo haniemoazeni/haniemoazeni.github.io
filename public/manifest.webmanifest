@@ -1,0 +1,22 @@
+{
+  "name": "Hanie Moazeni – Architecture Portfolio",
+  "short_name": "Hanie Portfolio",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Architecture portfolio, selected works, research, and CV for Hanie Moazeni.",
+  "icons": [
+    {
+      "src": "assets/images/port-1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/port-1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
